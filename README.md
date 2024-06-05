@@ -1,5 +1,10 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1165320152540250283)](https://discord.com/users/1165320152540250283)
-
+<div align="center">
+  <a href="https://egirl.ing/" >
+   <img src="https://lanyard.kyrie25.me/api/1165320152540250283?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
+  </a>
+</div>
+<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+<img src="./header.svg" width="10000">
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
