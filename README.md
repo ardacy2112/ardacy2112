@@ -1,3 +1,6 @@
+[![Discord Presence](https://lanyard.cnrad.dev/api/1165320152540250283)](https://discord.com/users/1165320152540250283)
+
+
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
